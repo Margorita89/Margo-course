@@ -8,14 +8,14 @@
         font-family: 'Segoe UI', sans-serif;
     }
     
-    .conteiner {
+    .container {
         max-width: 750px;
         margin: auto;
         padding: 15px 20px;
     }
     
     @media (max-width: 500px) {
-        .conteiner {
+        .container {
             font-size: 10px;
             text-align: center;
         }
