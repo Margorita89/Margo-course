@@ -2,4 +2,4 @@
 
 ## Готовый результат:
 
-[Моя первая работа](https://margorita89.github.io/Margo-course/")
+[Моя первая работа]("https://margorita89.github.io/Margo-course/")
